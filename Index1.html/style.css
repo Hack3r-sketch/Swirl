@@ -1,0 +1,24 @@
+.Same{background-color: black;
+    width: 100px;
+    min-height: 100vh;
+    border: 2px solid #000;
+    opacity: 60%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+body{color: rgb(248, 248, 248);}
+.links{
+    width: 70px;
+}
+.links img{
+    width: 70px;
+    height: auto;
+}
+.mittel{
+    width: 70px;
+}
+.mittel img{
+    width: 70px;
+    height: auto;
+}
